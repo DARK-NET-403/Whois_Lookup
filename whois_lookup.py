@@ -1,14 +1,15 @@
+#Tool Make By : Ariyan Rabbi(Dʌʀĸ-Nɘt)
+#Don't Use My coded File And copy
+#Are Your use copy my file Your Father 100 man
+#use this tool and give me star
+#Don't Copy my file
+
 import whois
 import pyfiglet
 import time
 import sys
 import os
 from termcolor import colored
-#Tool Make By : Ariyan Rabbi(Dʌʀĸ-Nɘt)
-#Don't Use My coded File And copy
-#Are Your use copy my file Your Father 100 man
-#use this tool and give me star
-#Don't Copy my file
 
 from colorama import Fore, init
 
