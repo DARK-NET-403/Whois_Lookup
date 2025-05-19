@@ -37,6 +37,9 @@
 ### 📥 Installation
 
 ```bash
+pip uninstall whois
+pip uninstall python-whois
+pip install python-whois
 git clone https://github.com/DARK-NET-403/Whois_Lookup
 cd Whois_Lookup
 pip install -r requirements.txt
